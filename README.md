@@ -1,14 +1,19 @@
 # nauka
+
 co sięstanie teraz jak zmienie t wszystko ???
 
 
 
 jakaś deskrypcja
+
+już mi sięnie podoba jakaś deskrypcja
+
 to wyżej było napisane wcześniej
 
 cześć,
 Marcin z tej strony. Uczę się toego w domu bo lubię. Lubię też podróże i takie tam.
 Będę zaraz jadł śniadanie.
+
 
 
 Testy użyteczności stron
@@ -32,3 +37,17 @@ Są one ważne zwłaszcza w przypadku aplikacji bądź strony internetowej, na k
 pentesty
 
 Żaden nie serwis nie chciałby, aby tego typu informacje dostały się w niepowołane ręce. Oznaczałoby to bowiem problemy natury prawnej, z którymi nie łatwo sobie poradzić. Dlatego też kluczowe jest przeprowadzenie zaawansowanych i dokładnych testów, uwzględniających wszelkie możliwe ewentualności. Dzięki temu system zabezpieczeń zostanie gruntownie sprawdzony, co oczywiście przełoży się na możliwość poprawy ewentualnych błędów bądź luk.
+
+teraz pisze znó coś nowego
+enter i jestem linię niżej
+<h1>marcin</h1> czy działa html??
+#marcin#
+@lolo_kb@wp.pl czy to zobaczy?
+<br><br> powinno być 2 linie niżej z htmla
+<p>jakis tam tekst długi : Viewing contributions on your profile
+Your GitHub profile shows off your pinned repositories as well as a graph of your repository contributions over the past year.
+
+Your contribution graph shows activity from public repositories. You can choose to show activity from both public and private repositories, with specific details of your activity in private repositories anonymized. For more information, see "Publicizing or hiding your private contributions on your profile."
+
+Note: Commits will only appear on your contributions graph if you have added the email address you used for your local Git configuration to your GitHub email settings. For more information, see "Why are my contributions not showing up on my profile?"</p>
+
